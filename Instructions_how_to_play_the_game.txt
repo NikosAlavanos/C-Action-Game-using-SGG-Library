@@ -1,0 +1,21 @@
+How to play the game:
+
+								---Goal of the Game---
+
+Collect all 8 of Prisoned humans before the time runs out!! Can you do it?
+
+								---When in game---
+~Press "Q" to go to the Main Menu 
+~Press "F1" to go to the Options Menu
+~Press "P" to go to Pause Menu
+								
+
+
+								---Movement---
+~Press "W" to jump/go up the ladder
+~Press "S" to go down the ladder
+~Press "A" to go left
+~Press "D" to go right
+~Press "SPACE" to shoot
+
+Thank you for playing the game, hope you had fun!!!
